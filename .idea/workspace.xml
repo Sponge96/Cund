@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad9920d6-00a9-46f7-89ff-709ffa99acd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/evennia/docs/source/Turn-based-Combat-System.md" beforeDir="false" afterPath="$PROJECT_DIR$/evennia/docs/source/Turn-based-Combat-System.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evennia/evennia/utils/evmenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/evennia/evennia/utils/evmenu.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/evennia" />
+  </component>
+  <component name="ProjectId" id="1oEc6siWfqkXWkhYS2Pnu7ffmZZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JPick\Desktop\MudDev\mygame\world\mudcombat" />
+      <recent name="C:\Users\JPick\Desktop\MudDev\mygame\typeclasses" />
+      <recent name="C:\Users\JPick\Desktop\MudDev\mygame\world" />
+      <recent name="C:\Users\JPick\Desktop\MudDev\mygame\world\combat" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9920d6-00a9-46f7-89ff-709ffa99acd4" name="Default Changelist" comment="" />
+      <created>1612855017583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612855017583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1123" y="591" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1613385497403">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1123" y="591" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.2560.1400/2560.-232.1080.1880@0.0.2560.1400" timestamp="1613385497403" />
+    <state x="760" y="275" key="SettingsEditor" timestamp="1614758364744">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="275" key="SettingsEditor/0.0.2560.1400/2560.-231.1080.1880@0.0.2560.1400" timestamp="1614758364744" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1614845430807">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1400/2560.-231.1080.1880@0.0.2560.1400" timestamp="1614845430807" />
+    <state x="2560" y="-129" width="1096" height="1385" key="dock-window-1" timestamp="1613629580921">
+      <screen x="2560" y="-231" width="1080" height="1880" />
+    </state>
+    <state x="-1087" y="128" width="1096" height="1385" key="dock-window-1/0.0.2560.1400/-1080.-252.1080.1880@0.0.2560.1400" timestamp="1613113179840" />
+    <state x="2560" y="-129" width="1096" height="1385" key="dock-window-1/0.0.2560.1400/2560.-231.1080.1880@0.0.2560.1400" timestamp="1613629580921" />
+    <state x="-1096" y="3" width="1096" height="1385" key="dock-window-2" timestamp="1612945594787">
+      <screen x="-1080" y="-252" width="1080" height="1880" />
+    </state>
+    <state x="-1096" y="3" width="1096" height="1385" key="dock-window-2/0.0.2560.1400/-1080.-252.1080.1880@0.0.2560.1400" timestamp="1612945594787" />
+    <state x="1021" y="344" key="refactoring.ChangeSignatureDialog" timestamp="1612855461699">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1021" y="344" key="refactoring.ChangeSignatureDialog/0.0.2560.1400/-1080.-252.1080.1880@0.0.2560.1400" timestamp="1612855461699" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1614845441527">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.-231.1080.1880@0.0.2560.1400" timestamp="1614845441527" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1614853221933">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1080.-252.1080.1880@0.0.2560.1400" timestamp="1612872737063" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.-231.1080.1880@0.0.2560.1400" timestamp="1614853221933" />
+  </component>
+</project>
