@@ -4,7 +4,7 @@ FIGHTER_SKILLS = ["slash", "bash"]
 
 
 def class_node(caller, raw_string, **kwargs):
-    text = "Please choose from one of the following races!"
+    text = "Please choose from one of the following classes!"
     options = (
         {"key": ("1", "fighter"),
          "desc": "Fighter",
