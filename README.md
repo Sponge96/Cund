@@ -47,3 +47,12 @@ Most of my work was centred around the combat system and trying to make it as en
 
 
 I had also been working on a number of other systems but as I stated, as a novice who got a bit too excited by their first big scale project I didn't keep notes and thus when I fell ill it became a real unenjoyable experience picking up the pieces of what made total sense to me months prior but now was a jumbled mess of different ideas and concepts. I really enjoyed my time working on this project and learned a metric tonne of new skills (keeping good documentation being the main one). I think I'll definitly try to revist this concept at a later time.
+
+
+Example of gameplay:
+
+https://user-images.githubusercontent.com/20257044/122907665-48a96100-d34b-11eb-969a-feafb48f089e.mp4
+
+Gameplay was set to 1 second delay between actions and only single action for quicker recording.
+
+
